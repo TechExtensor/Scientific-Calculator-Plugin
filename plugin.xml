@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="TechCalc"
+   iconfile="techCalc.png"
+   description="Scientific Calculator"
+   tooltip="Developed By Techies"
+   category="Release"
+   classname="tech.plugin.calci.CalculatorMeta">		
+		<libraries>
+    		<library name="TechCalc2.jar"/>
+		</libraries>		
+</plugin>
